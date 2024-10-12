@@ -1,0 +1,44 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+.venv/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Data files (if applicable)
+*.csv
+*.xlsx
+*.xls
+
+# Coverage reports
+*.coverage
+.coverage.*
+htmlcov/
+
+# IDE files (if you use any IDEs)
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+
+# Streamlit generated files
+*.streamlit/
+
+# Other possible generated files
+*.pkl
+*.h5
